@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        ".",
-        ".",
-        "."
+        "s",
+        "o!",
+        "s!"
       ]
     },
     "chat-log": true,
